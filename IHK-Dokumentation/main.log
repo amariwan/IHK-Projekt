@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.4.12)  18 JUN 2023 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.4.12)  18 JUN 2023 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2305,7 +2305,7 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  108i,17n,106p,10622b,2734s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtk10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (68 pages, 2315974 bytes).
+Output written on main.pdf (68 pages, 2315976 bytes).
 PDF statistics:
  2298 PDF objects out of 2487 (max. 8388607)
  1260 named destinations out of 1440 (max. 500000)
