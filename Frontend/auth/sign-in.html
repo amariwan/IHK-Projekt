@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+
+   <head>
+      <!--=============== basic  ===============-->
+      <title>Hope UI | Responsive Bootstrap 5 Admin Dashboard Template</title>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+      <meta name="robots" content="index" />
+      <meta name="Description" content="The monitor system" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:title" content="Dashboard" />
+      <meta property="og:type" content="webapp" />
+      <meta property="og:site_name" content="Aland" />
+      <meta name="theme-color" content="#fff">
+      <meta name="author" content="Aland Mariwan">
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <!--=============== favicons ===============-->
+      <link rel="shortcut" href="../assets/img/svg/logo.svg">
+      <link rel="icon" href="../assets/img/svg/logo.svg">
+      <link rel="apple-touch-icon-precomposed" sizes="180x180" href="../assets/img/svg/logo.svg">
+      <link rel="apple-touch-startup-image" sizes="180x180" href="../assets/img/svg/logo.svg">
+      <link rel="manifest" href="../assets/img/manifest.json">
+      <link rel="shortcut icon" href="../assets/img/svg/logo.svg" type="image/x-icon">
+      <!--=============== CSS ===============-->
+      <link rel="preconnect" href="//fonts.gstatic.com" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+      <link rel="stylesheet" href="../assets/css/login.min.css" />
+      <link rel="stylesheet" href="../assets/css/notify.css" />
+      <!--=============== JS  ===============-->
+      <!-- VueJs JavaScript-Framework  -->
+      <script src="../assets/js/plugins/vue.global.js"></script>
+      <script src="../assets/js/plugins/axios.min.js"></script>
+      <script src="../assets/js/plugins/socket.io.min.js"></script>
+   </head>
+
+   <body class=" ">
+      <!-- Canvas -->
+      <canvas class="orb-canvas"></canvas>
+      <!-- loader END -->
+
+      <transition class="overlay box wrapper app" name="fade" @keyup.enter="doLogin">
+         <div class="square" style="--i:0;"></div>
+         <div class="square" style="--i:1;"></div>
+         <div class="square" style="--i:2;"></div>
+         <div class="square" style="--i:3;"></div>
+         <div class="square" style="--i:4;"></div>
+         <div class="square" style="--i:5;"></div>
+         <!-- Overlay inner wrapper -->
+         <div class="overlay__inner">
+            <!-- Title -->
+            <h1 class="overlay__title">
+               <span class="text-gradient">Welcome back!</span>
+            </h1>
+            <!-- Description -->
+            <p class="overlay__description">
+               <strong>Sign in to your account to continue</strong>
+            </p>
+            <div class="form">
+               <div class="inputBx">
+                  <input type="text" v-model="username" :class="isUserNameValidCls" required>
+                  <span>Username</span>
+                  <i class="fas fa-user-circle"></i>
+                  {{isUserNameValidMsg}}
+               </div>
+               <div class="inputBx password">
+                  <input id="password-input" v-model="password" type="password" name="password"
+                     :class="isPasswordValidCls" required>
+                  <span>Password</span>
+                  <a href="#" class="password-control" @click="show_hide_password"></a>
+                  <i class="fas fa-key"></i>
+                  {{isPasswordValidMsg}}
+               </div>
+               <div class="inputBx">
+                  <input type="submit" value="Log in"  @click="doLogin">
+               </div>
+            </div>
+         </div>
+      </transition>
+      <script src="../assets/js/core/libs.min.js"></script>
+      <script src="../assets/js/pages/sign-in.js"></script>
+      <script type="module" src="../assets/js/plugins/background.js"></script>
+      <script src="../assets/js/modules/crpyto.js"></script>
+      <script src="../assets/js/plugins/notify.js"></script>
+   </body>
+
+</html>

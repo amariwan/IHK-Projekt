@@ -1,0 +1,54 @@
+SHA256 Fingerprint=0E:9C:23:8D:FB:C0:B7:A5:2E:09:29:21:1B:A8:6F:5A:79:23:C3:C4:FA:03:17:8F:4D:5C:85:23:C3:9B:C6:ED
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            8c:0a:0a:07:40:9a:c8:19
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CA, ST=BC, L=Vancouver, O=Example Corp, OU=Testing Domain/emailAddress=webmaster@server, CN=server
+        Validity
+            Not Before: Nov 13 23:14:03 2022 GMT
+            Not After : Nov 12 23:14:03 2025 GMT
+        Subject: C=CA, ST=BC, L=Vancouver, O=Example Corp, OU=Testing Domain/emailAddress=webmaster@server, CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ca:e2:e2:06:3b:0b:ef:f8:f4:d9:54:57:bd:c8:
+                    88:fa:49:3d:4f:8a:5e:c5:a9:fd:73:d0:97:87:58:
+                    95:c2:2d:d1:5e:af:20:5a:d5:c4:16:c3:5e:22:e4:
+                    19:63:cf:ac:df:81:a1:18:18:e1:17:d6:40:6e:71:
+                    e0:e5:a3:ce:9c:4a:b6:1d:53:c9:6b:25:04:bb:12:
+                    f5:5e:3c:a7:5c:c7:c8:f2:fc:ce:db:0e:f4:af:e9:
+                    95:df:36:83:cf:79:0d:b3:ea:42:8b:6f:a4:aa:7e:
+                    3e:e6:21:3d:05:a7:3e:6d:0a:ba:dc:57:da:6a:57:
+                    4d:cd:ea:a5:da:74:56:e4:08:c6:46:0e:e2:38:52:
+                    ee:8d:8e:14:b0:1d:4a:41:98:a2:16:7b:39:5e:91:
+                    6c:63:5e:bd:b8:27:bb:9e:62:76:01:e7:cf:3e:9d:
+                    d9:a8:23:e9:3d:61:1b:93:55:96:f6:8d:e8:b2:a9:
+                    b8:ce:67:b6:dd:2f:96:c3:c6:6c:45:84:41:cb:b3:
+                    cd:8d:33:86:27:fe:66:45:0e:52:d2:fd:29:e0:f6:
+                    27:c1:16:de:7e:d6:5b:3e:16:cf:69:c3:aa:20:8e:
+                    9d:31:56:65:c0:3d:cb:74:0c:d5:54:3f:a5:35:a7:
+                    40:29:5f:c8:05:fb:88:63:9c:73:a7:66:67:43:59:
+                    be:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:*.server, DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+         62:62:fc:c9:8e:6d:90:7d:0e:c1:91:83:f0:6f:66:66:54:1c:
+         b6:bd:7e:71:c7:92:ce:fe:5e:ce:c3:fc:22:2e:ee:4e:15:c7:
+         5f:54:be:36:e8:e3:51:e8:35:19:31:a2:67:0a:b4:74:e2:b4:
+         39:36:5a:b8:2a:d4:30:a7:43:8f:a3:76:a2:dc:bd:3f:7a:16:
+         19:05:ed:78:19:35:ab:5f:22:d4:48:20:40:9f:56:d0:a5:fe:
+         b2:2a:b1:22:d0:4d:30:2b:9a:54:5e:c1:1d:09:9e:5f:90:c7:
+         75:6e:9b:4e:0b:8e:68:45:c8:bb:56:e0:a2:aa:62:70:97:00:
+         ea:74:36:91:53:55:bb:2e:95:ff:83:23:f4:80:52:93:8e:04:
+         a6:66:e4:28:7c:d9:45:37:8e:cc:0d:51:0a:b8:0c:f9:55:67:
+         8e:e0:9c:f4:fe:65:ba:af:6d:05:9b:99:28:b2:b4:15:69:3a:
+         86:cb:18:bb:b5:dc:e6:b7:00:df:04:58:63:f3:ba:37:91:4e:
+         44:23:49:12:45:26:82:7e:14:f9:9d:d7:49:5e:2a:42:52:4d:
+         47:aa:ac:99:b2:8e:28:14:c8:c4:e1:5c:3e:80:a8:d1:45:1e:
+         ff:5c:81:bc:f3:77:38:a9:dd:60:c2:12:d1:c2:90:51:6d:05:
+         b6:53:04:bf

@@ -38,11 +38,14 @@
       <bcf:key>alphaothers</bcf:key>
       <bcf:value>+</bcf:value>
     </bcf:option>
+<<<<<<< HEAD
     <bcf:option type="multivalued">
       <bcf:key>extradatecontext</bcf:key>
       <bcf:value order="1">labelname</bcf:value>
       <bcf:value order="2">labeltitle</bcf:value>
     </bcf:option>
+=======
+>>>>>>> f3feaaf (b)
     <bcf:option type="singlevalued">
       <bcf:key>labelalpha</bcf:key>
       <bcf:value>0</bcf:value>
@@ -281,11 +284,14 @@
   </bcf:options>
   <!-- online -->
   <bcf:options component="biblatex" type="online">
+<<<<<<< HEAD
     <bcf:option type="multivalued">
       <bcf:key>extradatecontext</bcf:key>
       <bcf:value order="1">labelname</bcf:value>
       <bcf:value order="2">labeltitle</bcf:value>
     </bcf:option>
+=======
+>>>>>>> f3feaaf (b)
     <bcf:option type="singlevalued">
       <bcf:key>labelalpha</bcf:key>
       <bcf:value>0</bcf:value>
@@ -505,7 +511,10 @@
     <bcf:option datatype="xml">sortingnamekeytemplate</bcf:option>
     <bcf:option datatype="xml">sortingtemplate</bcf:option>
     <bcf:option datatype="xml">extradatespec</bcf:option>
+<<<<<<< HEAD
     <bcf:option datatype="xml">extradatecontext</bcf:option>
+=======
+>>>>>>> f3feaaf (b)
     <bcf:option datatype="xml">labelnamespec</bcf:option>
     <bcf:option datatype="xml">labeltitlespec</bcf:option>
     <bcf:option datatype="xml">labeldatespec</bcf:option>
@@ -729,7 +738,10 @@
     <bcf:option datatype="xml">translit</bcf:option>
     <bcf:option datatype="xml">sortexclusion</bcf:option>
     <bcf:option datatype="xml">sortinclusion</bcf:option>
+<<<<<<< HEAD
     <bcf:option datatype="xml">extradatecontext</bcf:option>
+=======
+>>>>>>> f3feaaf (b)
     <bcf:option datatype="xml">labelnamespec</bcf:option>
     <bcf:option datatype="xml">labeltitlespec</bcf:option>
     <bcf:option datatype="xml">labeldatespec</bcf:option>

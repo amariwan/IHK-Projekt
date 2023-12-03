@@ -1,0 +1,23 @@
+/*!
+* Version: 1.2.0
+* Author: Aland Mariwan
+* Design and Developed by: Aland Mariwan
+* NOTE: This file contains the styling for Template.
+*
+*/
+
+// Configuration
+@import "./bootstrap/functions";
+// Variables
+@import "./gssd-ui-design-system/variable";
+@import "./gssd-ui-design-system/variables/index";
+@import "./bootstrap/variables";
+
+@import "./bootstrap/mixins";
+
+// gssd Ui Design System Mixin And Helper
+@import "./gssd-ui-design-system/helper/functions";
+@import "./gssd-ui-design-system/helper/mixins";
+@import "./gssd-ui-design-system/helper/reboot";
+
+@import "./rtl/index";

@@ -1,0 +1,52 @@
+{
+	"name": "server-monitor-ui",
+
+	"version": "1.0.0",
+	"description": "monitoring in production server is very important and critical part in overall Nodejs application development.",
+	"author": "Aland Mariwan",
+	"license": "MIT",
+	"main": "app.js",
+
+	"scripts": {
+		"start": "nodemon app",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"@discordjs/rest": "^1.4.0",
+		"bcrypt": "^5.1.0",
+		"body-parser": "^1.20.0",
+		"compression": "^1.7.4",
+		"connect-flash": "^0.1.1",
+		"connect-timeout": "^1.9.0",
+		"cookie-parser": "^1.4.6",
+		"cookie-session": "^2.0.0",
+		"cors": "^2.8.5",
+		"discord.js": "^14.7.0",
+		"easy-https": "^1.0.1",
+		"express": "^4.18.1",
+		"express-session": "^1.17.3",
+		"forever": "^4.0.3",
+		"fs": "^0.0.1-security",
+		"helmet": "^6.0.0",
+		"jshint": "^2.13.6",
+		"method-override": "^3.0.0",
+		"moment": "^2.29.4",
+		"mysql": "^2.18.1",
+		"node-schedule": "^2.1.0",
+		"nodemailer": "^6.8.0",
+		"nodemon": "^2.0.20",
+		"os-utils": "0.0.14",
+		"passport": "^0.6.0",
+		"passport-local": "^1.0.0",
+		"passport.socketio": "^3.7.0",
+		"pm2": "^5.2.2",
+		"ps-node": "^0.1.6",
+		"response-time": "^2.3.2",
+		"session-file-store": "^1.5.0",
+		"sessionstore": "^1.3.7",
+		"socket.io": "^2.5.0",
+		"socket.io-client": "^4.5.3",
+		"systeminformation": "^5.15.0",
+		"website-scraper": "^5.3.1"
+	}
+}

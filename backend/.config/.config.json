@@ -1,0 +1,62 @@
+{
+   "name": "Monitoring",
+   "port": 4003,
+   "BOT_TOKEN": "MTA0NzIxODAwNDY4Mjg4NzE2OA.GaPI6s.wXl5xtOi6h_hGGergXY25KfdA7Rlowvt8ozVi0",
+   "loginsystem": "localstorage",
+   "users": [{
+         "username": "admin",
+         "name": "admin",
+         "lastname": "admin",
+         "password": "Tolasm99",
+         "role": "admin",
+         "id": "0"
+      },
+      {
+         "username": "amariwan",
+         "name": "Aland",
+         "lastname": "Mariwan",
+         "password": "Tolasm99",
+         "role": "user",
+         "id": "1"
+      }
+   ],
+   "databank": [{
+      "host": "192.168.44.180",
+      "port": 3306,
+      "user": "dev",
+      "password": "gssddev",
+      "database": "",
+      "clearExpired": true,
+      "checkExpirationInterval": 900000,
+      "expiration": 86400000,
+      "createDatabaseTable": true,
+      "connectionLimit": 1,
+      "endConnectionOnClose": true,
+      "charset": "utf8mb4_bin"
+   }],
+   "mailAuth": [{
+      "host": "smtp.ionos.de",
+      "port": 465,
+      "secure": true,
+      "auth": {
+         "user": "kontakt@aland-mariwan.de",
+         "pass": "Riking#99#$$"
+      }
+   }],
+   "https": false,
+   "ssl_keys": [{
+      "key": ".config/ssl/server.key",
+      "cert": ".config/ssl/server.crt"
+   }],
+   "web_config": {
+      "local": [{
+         "host": "127.0.0.1",
+         "port": 4003,
+         "https": true,
+         "show": true
+      }]
+   },
+   "discord": [{
+      "tokenBot": "ODc1Nzg4OTc1MTgzMzg4NzUz.GrzOx5.KbezlnXH0i0JUYN_LhPye630wVLIpV6IzW5Kw8"
+   }]
+}

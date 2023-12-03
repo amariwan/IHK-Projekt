@@ -1,78 +1,46 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\nonumberline Abk^^c3^^bcrzungsverzeichnis}{13}{section*.6}%
+\contentsline {section}{\nonumberline Abkürzungsverzeichnis}{10}{section*.3}%
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Projektbeschreibung}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Projektziel}{1}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Projektbegr^^c3^^bcndung}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}Projektbegründung}{2}{subsection.1.3}%
 \contentsline {subsection}{\numberline {1.4}Projektschnittstellen}{2}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Projektabgrenzen}{2}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Use-Case}{2}{subsection.1.6}%
-\contentsline {subsubsection}{\numberline {1.6.1}Prozessabl^^c3^^a4ufe}{2}{subsubsection.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.6.2}Anwendungsf^^c3^^a4lle}{3}{subsubsection.1.6.2}%
-\contentsline {section}{\numberline {2}Projektplanung}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Projektphasen}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Ressourcenplanung}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Entwicklungsprozess}{4}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Analysephase}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Ist-Analyse}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Workflow}{5}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Soll-Konzept}{5}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Risikoanalyse}{6}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Wirtschaftlichkeitsanalyse}{6}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}^^e2^^80^^9eMake or Buy^^e2^^80^^9c-Entscheidung}{6}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Projektkosten}{7}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Amortisationsdauer}{7}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.6}Lastenheft}{7}{subsection.3.6}%
-\contentsline {section}{\numberline {4}Entwurfsphase}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Zielplattform}{8}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Architekturdesign}{8}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Entwurf der Benutzeroberfl^^c3^^a4che}{8}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Datenmodell}{9}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Ma^^c3^^9fnahmen zur Qualit^^c3^^a4tssicherung}{9}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Deployment}{9}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Pflichtenheft}{10}{subsection.4.7}%
-\contentsline {section}{\numberline {5}Implementierungsphase}{10}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Entwicklung des Dashboards}{10}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Datenbank}{11}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}REST-API}{11}{subsection.5.3}%
+\contentsline {subsection}{\numberline {1.5}Projektbegrenzung}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}User-Cases}{3}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Projektplanung}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Projektorganisation}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Projektphasen}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Ressourcenplanung}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Entwicklungsprozess}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Analysephase}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Ist-Analyse}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Workflow}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Soll-Analyse}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Wirtschaftlichkeitsanalyse}{9}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}``Make or Buy`` -Entscheidung}{9}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Projektkosten}{9}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Amortisationsdauer}{9}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.5}Lastenheft}{9}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Entwurfsphase}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Zielplattform}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Architekturdesign}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Datenbank}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}REST-API}{10}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Entwurf der Benutzeroberfläche}{11}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Maßnahmen zur Qualitätssicherung}{11}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Deployment}{11}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Pflichtenheft}{11}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Implementierungsphase}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Vorbereitung des Projektes}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Implementierung des Backendes}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Implementierung des Frontends}{12}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}Testen der Anwendung}{12}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Sicherheitstests}{12}{subsection.5.5}%
 \contentsline {section}{\numberline {6}Abnahmephase}{12}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Code-Review}{12}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Abnahme}{13}{subsection.6.2}%
-\contentsline {section}{\numberline {7}Dokumentation}{13}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Benutzerhandbuch Endanwender-Dokumentation}{13}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Entwicklerdokumentation}{14}{subsection.7.2}%
-\contentsline {section}{\numberline {8}Fazit}{14}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Soll-\/Ist-Vergleich}{14}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Lessons Learned}{14}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Ausblick}{15}{subsection.8.3}%
-\contentsline {section}{\nonumberline Literaturverzeichnis}{16}{section*.9}%
-\contentsline {section}{\numberline {A}Anhang}{i}{appendix.A}%
-\contentsline {subsection}{\numberline {A.1}Lastenheft}{i}{subsection.A.1}%
-\contentsline {subsubsection}{\numberline {A.1.1}Funktionalit^^c3^^a4ten}{i}{subsubsection.A.1.1}%
-\contentsline {subsubsection}{\numberline {A.1.2}Technische Anforderungen}{i}{subsubsection.A.1.2}%
-\contentsline {subsubsection}{\numberline {A.1.3}Nicht-funktionale Anforderungen}{i}{subsubsection.A.1.3}%
-\contentsline {subsubsection}{\numberline {A.1.4}Lieferumfang}{ii}{subsubsection.A.1.4}%
-\contentsline {subsubsection}{\numberline {A.1.5}Abnahmekriterien}{ii}{subsubsection.A.1.5}%
-\contentsline {subsection}{\numberline {A.2}Pflichtenheft}{iii}{subsection.A.2}%
-\contentsline {subsubsection}{\numberline {A.2.1}Funktionale Anforderungen}{iii}{subsubsection.A.2.1}%
-\contentsline {subsubsection}{\numberline {A.2.2}Nicht-funktionale Anforderungen}{iii}{subsubsection.A.2.2}%
-\contentsline {subsubsection}{\numberline {A.2.3}Technische Anforderungen}{iii}{subsubsection.A.2.3}%
-\contentsline {subsubsection}{\numberline {A.2.4}Lieferumfang}{v}{subsubsection.A.2.4}%
-\contentsline {subsubsection}{\numberline {A.2.5}Abnahmekriterien}{v}{subsubsection.A.2.5}%
-\contentsline {subsection}{\numberline {A.3}Verwendete Ressourcen}{vi}{subsection.A.3}%
-\contentsline {subsection}{\numberline {A.4}Middleware}{viii}{subsection.A.4}%
-\contentsline {subsection}{\numberline {A.5}Der Grund f^^c3^^bcr die Verwendung von Session}{viii}{subsection.A.5}%
-\contentsline {subsection}{\numberline {A.6}Der Grund f^^c3^^bcr die Verwendung von Helmet.js}{ix}{subsection.A.6}%
-\contentsline {subsection}{\numberline {A.7}Fehlercodes und Statuscode-Meldungen}{x}{subsection.A.7}%
-\contentsline {subsection}{\numberline {A.8}Use-case Diagramm}{xi}{subsection.A.8}%
-\contentsline {subsection}{\numberline {A.9}Komponenten Diagramm}{xii}{subsection.A.9}%
-\contentsline {section}{\numberline {B}Relationales Datenbankmodell}{xiii}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}Screenshot des Sprint-Boards in GitHub}{xiv}{subsection.B.1}%
-\contentsline {subsection}{\numberline {B.2}Verwendung von Gantt-Diagramm in GitHub f^^c3^^bcr die Projektplanung}{xv}{subsection.B.2}%
-\contentsline {subsection}{\numberline {B.3}Screenshot des File-Trees Backend}{xvi}{subsection.B.3}%
-\contentsline {subsection}{\numberline {B.4}Anmeldung eines neuen Sensors}{xvii}{subsection.B.4}%
-\contentsline {subsection}{\numberline {B.5}Sequenzdiagramm: Sensor schickt Daten}{xxii}{subsection.B.5}%
-\contentsline {subsection}{\numberline {B.6}Dashboard-Seite}{xxx}{subsection.B.6}%
+\contentsline {subsection}{\numberline {6.2}Abnahme}{12}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Dokumentation}{12}{section.7}%
+\contentsline {section}{\numberline {8}Fazit}{13}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Soll-\/Ist-Vergleich}{13}{subsection.8.1}%
+\contentsline {section}{\numberline {A}Anhang}{14}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Pflichtenheft}{14}{subsection.A.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

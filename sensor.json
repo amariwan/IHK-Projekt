@@ -1,0 +1,38 @@
+[
+   {
+      "int": {
+         "sensor_id": "1",
+         "sensor_name": "Anrufe pro Stunde",
+         "sensor_type": "process",
+         "data_type": "integer",
+         "unit": "anrufe",
+         "unit_display": "Anrufe/h",
+         "show": true,
+         "data": [ ],
+         "sensor_status": "red",
+         "sensor_max": 1000,
+         "sensor_min": 0,
+         "LastUpdated": "new Date()",
+         "timestamp": "Date.now()",
+         "expectedLast": "Date"
+      }
+   },
+   {
+      "string": {
+         "sensor_id": "1",
+         "sensor_name": "Anrufe pro Stunde",
+         "sensor_type": "process",
+         "data_type": "string",
+         "unit": "anrufe",
+         "unit_display": "Anrufe/h",
+         "show": true,
+         "data": [ ],
+         "sensor_status": "red",
+         "sensor_max": 1000,
+         "sensor_min": 0,
+         "LastUpdated": "new Date()",
+         "timestamp": "Date.now()",
+         "expectedLast": "Date"
+      }
+   }
+]

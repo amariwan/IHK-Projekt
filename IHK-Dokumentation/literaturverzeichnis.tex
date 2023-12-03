@@ -1,45 +1,14 @@
-
+\thispagestyle{empty}
 \newpage
 {\color{blue}\addsec{Literaturverzeichnis}}
 
-\begin{description}
-  \item [NodeJs v18.16.0]
-  \item Available at: \url{https://nodejs.org/}
-  \item Accessed March 2023
-  \item
-  \item [expressjs v4.18.2]
-  \item Available at: \url{https://expressjs.com/}
-  \item Accessed March 2023
-  \item
-  \item [Mozilla v3]
-  \item Available at: \url{https://developer.mozilla.org/}
-  \item Accessed March 2023
-  \item
-  \item [Axios v1.3.5]
-  \item Available at: \url{https://axios-http.com/}
-  \item Accessed March 2023
-  \item
-  \item [Vuejs v3]
-  \item Available at: \url{https://vuejs.org/}
-  \item Accessed March 2023
-  \item
-  \item [Vuex v3]
-  \item Available at: \url{https://Vuex.vuejs.org/}
-  \item Accessed March 2023
-  \item
-  \item [Vuetify v3]
-  \item Available at: \url{https://vuetify.org/}
-  \item Accessed March 2023
-  \item
-  \item [Vue Router v3]
-  \item Available at: \url{https://router.vuejs.org/}
-  \item Accessed March 2023
-  \item
-  \item [MariaDB v11.1.0]
-  \item Available at: \url{https://mariadb.com/}
-  \item Accessed March 2023
-  \item
-  \item [HelmetJs v6.1.5]
-  \item Available at: \url{https://helmetjs.github.io/}
-  \item Accessed March 2023
-\end{description}
+\label{abkuerzungsverzeichnis}
+\newbibmacro*{publisher+location+date}{%
+  \printlist{location}%
+  \iflistundef{publisher}
+    {\setunit*{\addcomma\space}}
+    {\setunit*{\addcolon\space}}%
+  \printlist{publisher}%
+  \setunit*{\addcomma\space}%
+  \usebibmacro{date}%
+  \newunit}
